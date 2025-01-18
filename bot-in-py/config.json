@@ -1,0 +1,15 @@
+{
+  "tgbot": [
+    {
+      "program": "tg-bot-py",
+      "version": "0.1.0",
+      "edition": "2022",
+      "botToken": "",
+      "ownerId": "",
+      "admin1": "",
+      "author": "Suman Kumar ~BHUTUU",
+      "company": "BHUTUU",
+      "github": "https://github.com/BHUTUU/tg-bot"
+    }
+  ]
+}
