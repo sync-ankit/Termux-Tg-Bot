@@ -1,5 +1,5 @@
 #!/usr/bin/bash
-#By: Ankit Kumar
+#By: Ankit Kumar | xnkitk.netlify.app
 #Date: 20-Jan-2025
 
 #<<<----color code substitution---->>>#
